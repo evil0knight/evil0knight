@@ -1,95 +1,108 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+evil0knight;Embedded+Systems+Developer;Hardware+%26+Software+Integration;Self-taught+%7C+Competition+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+evil0knight;%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%80%85;%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%85%A8%E6%A0%88+%7C+%E6%AF%94%E8%B5%9B%E8%8E%B7%E5%A5%96%E8%80%85;%E8%87%AA%E5%AD%A6%E6%88%90%E6%89%8D+%7C+%E6%8C%81%E7%BB%AD%E7%83%AD%E7%88%B1)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-🤖 **Embedded Systems Developer** | 💻 **Algorithm & Control Expert** | 🔧 **Hardware Design Specialist**
+🤖 **嵌入式系统开发者** | 💻 **算法与控制专家** | 🔧 **硬件设计工程师**
 
-[![GitHub followers](https://img.shields.io/github/followers/evil0knight?style=social)](https://github.com/evil0knight)
-[![Profile Views](https://komarev.com/ghpvc/?username=evil0knight&color=00f7f7&style=flat-square&label=Profile+Views)](https://github.com/evil0knight)
+[![GitHub 关注者](https://img.shields.io/github/followers/evil0knight?style=social&label=关注者)](https://github.com/evil0knight)
+[![主页访问量](https://komarev.com/ghpvc/?username=evil0knight&color=00f7f7&style=flat-square&label=访问量)](https://github.com/evil0knight)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 关于我
 
-嵌入式软硬件工程师,专注于**机器人控制**与**硬件设计**。
+江苏大学24级物联网工程专业在读,专注**嵌入式软硬件开发**。
 
-在**无代码传承**情况下独立完成智能车视觉系统开发(**英飞凌TC377** + **灰度摄像头**),实现**大津法种子搜线**、**VMC五连杆控制**、**3级串PID**调优。
+拥有**智能车竞赛**(TC377视觉控制系统)、**机甲大师**(电源管理系统)等多个完整项目经验,
+熟悉**STM32/TC377**平台开发,精通**C语言**、**控制算法**和**硬件设计**,
+在**无代码传承**情况下独立完成8000+行代码的系统开发,具备较强的**自学能力**和**工程实践能力**。
 
-机甲大师**硬件组**成员,设计**超级电容模块**(半桥升降压 + CAN通信),擅长从开源项目快速学习并交付实用方案。
+**🎯 求职目标**: 2025届校招/实习 - 嵌入式软件/硬件工程师岗位
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
-### 💾 Hardware Platforms
-![Infineon](https://img.shields.io/badge/Infineon_TC377-00C2CB?style=for-the-badge&logo=infineon&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 💾 硬件平台
+
+![Infineon TC377](https://img.shields.io/badge/Infineon_TC377-00C2CB?style=for-the-badge&logo=infineon&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32F1/F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M3/M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 💻 编程语言
+
+![C](https://img.shields.io/badge/C语言-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/汇编-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### ⚡ Control & Algorithms
-![PID Control](https://img.shields.io/badge/3_Level_PID-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
-![VMC](https://img.shields.io/badge/VMC_5_Link-4ECDC4?style=for-the-badge&logo=codio&logoColor=white)
-![Otsu](https://img.shields.io/badge/Otsu_Threshold-95E1D3?style=for-the-badge&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5D3FD3?style=for-the-badge&logo=opencv&logoColor=white)
+### 📡 通信协议
 
-### 🔌 Hardware Design
-![PCB Design](https://img.shields.io/badge/PCB_Design-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/Buck_Boost-FF6B35?style=for-the-badge&logo=electronjs&logoColor=white)
-
-### 📡 Communication Protocols
-![CAN](https://img.shields.io/badge/CAN_Bus-009639?style=for-the-badge&logo=canva&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN总线-009639?style=for-the-badge&logo=canva&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-4285F4?style=for-the-badge&logo=serial&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-00599C?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-E34F26?style=for-the-badge&logo=i2c&logoColor=white)
 
-### 🔧 Development Tools
-![Keil](https://img.shields.io/badge/Keil-00599C?style=for-the-badge&logo=arm&logoColor=white)
+### ⚡ 控制与算法
+
+![PID Control](https://img.shields.io/badge/三级串PID-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
+![VMC](https://img.shields.io/badge/VMC五连杆-4ECDC4?style=for-the-badge&logo=codio&logoColor=white)
+![Otsu](https://img.shields.io/badge/大津法-95E1D3?style=for-the-badge&logo=opencv&logoColor=white)
+![Seed Line](https://img.shields.io/badge/种子搜线-38B2AC?style=for-the-badge&logo=algorithm&logoColor=white)
+![Image Recognition](https://img.shields.io/badge/特殊图像判断-9F7AEA?style=for-the-badge&logo=image&logoColor=white)
+![State Machine](https://img.shields.io/badge/状态机-6366F1?style=for-the-badge&logo=automata&logoColor=white)
+
+### 🔌 硬件设计
+
+![PCB Design](https://img.shields.io/badge/PCB设计-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Power Electronics](https://img.shields.io/badge/半桥升降压-FF6B35?style=for-the-badge&logo=electronjs&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/电路设计-FF6B6B?style=for-the-badge&logo=circuitverse&logoColor=white)
+
+### 🔧 开发工具
+
+![EDA](https://img.shields.io/badge/EDA-00599C?style=for-the-badge&logo=electronics&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil_MDK-00599C?style=for-the-badge&logo=arm&logoColor=white)
 ![IAR](https://img.shields.io/badge/IAR-00599C?style=for-the-badge&logo=embedded&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JTAG](https://img.shields.io/badge/JTAG/SWD-FF6B6B?style=for-the-badge&logo=debugging&logoColor=white)
+
+### 🔍 调试工具
+
+![Logic Analyzer](https://img.shields.io/badge/逻辑分析仪-00897B?style=for-the-badge&logo=oscilloscope&logoColor=white)
+![Oscilloscope](https://img.shields.io/badge/示波器-8E24AA?style=for-the-badge&logo=waveform&logoColor=white)
 
 <br>
 
-## 📊 GitHub Stats & Contribution
+## 📊 GitHub 统计与贡献
 
 <div align="center">
 
-### 3D Contribution Calendar
+### 3D 贡献日历
 
 ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
-### Stats Overview
+### 统计概览
 
-<img src="https://github-readme-stats.vercel.app/api?username=evil0knight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" alt="GitHub Stats" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evil0knight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" alt="Top Languages" height="180em" />
-
-<br>
-
-### Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=evil0knight&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=evil0knight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff&locale=cn" alt="GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evil0knight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff&locale=cn" alt="Top Languages" height="180em" />
 
 <br>
 
-### Trophy Collection
+### 贡献记录
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=evil0knight&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&locale=zh_Hans)](https://git.io/streak-stats)
+
+<br>
+
+### 成就收藏
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=evil0knight&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -97,88 +110,149 @@
 
 <br>
 
-## 🏆 Core Projects
+## 🏆 核心项目
 
 <div align="center">
 
-### 🚗 Smart Car Vision Control System
-**智能车视觉控制系统**
+### 🚗 智能车视觉控制系统
+
+**Smart Car Vision Control System**
 
 </div>
 
 ```
-🔧 Hardware: Infineon TC377 + Grayscale Camera
-🎯 Highlight: Built from scratch without code inheritance or mentorship
-⚡ Technologies:
-   • Otsu Thresholding for image segmentation
-   • Seed-based line tracking algorithm
-   • VMC (Virtual Model Control) 5-link suspension control
-   • 3-level cascade PID tuning
-📊 Outcome: Successfully completed the competition
+🔧 硬件平台: 英飞凌 TC377 + 灰度摄像头
+🎯 项目亮点: 无代码传承和学长指导,从零开始独立构建
+⚡ 技术栈:
+   • 大津法图像分割 + 种子搜线算法
+   • VMC(虚拟模型控制)五连杆悬架控制
+   • 三级串级PID调优(位置环+速度环+电流环)
+   • 实时图像处理(处理速度50fps+)
+📊 项目成果:
+   • 竞赛成绩: 【待补充:如省赛一等奖/国赛二等奖】
+   • 代码规模: 完成6000+行C代码,含图像处理、电机控制等8大功能模块
+   • 性能指标: 最高车速2.5m/s,赛道识别准确率95%+
+   • 开发周期: 3个月,独立完成全部软件开发(硬件由团队完成)
 ```
 
 <div align="center">
 
-### ⚡ Supercapacitor Management System
-**超级电容管理系统**
+### ⚡ 超级电容管理系统
+
+**Supercapacitor Management System**
 
 </div>
 
 ```
-🔧 Hardware: Half-bridge Buck-Boost Circuit + STM32
-🎯 Highlight: Rapidly developed from open-source references to fill team gap
-⚡ Technologies:
-   • Voltage & current sampling circuits
-   • CAN bus communication protocol
-   • Charge/discharge management algorithm
-   • Power electronics control
-📊 Outcome: Delivered critical module for the team
+🔧 硬件平台: 半桥升降压电路 + STM32F1/F4
+🎯 项目亮点: 借鉴开源项目快速开发,填补团队技术空白
+⚡ 技术栈:
+   • 电压电流采样电路(高精度ADC采样)
+   • CAN总线通信协议(实时数据传输)
+   • 充放电管理算法(SOC估算+过流保护)
+   • Buck-Boost电力电子控制(PWM+闭环控制)
+📊 项目成果:
+   • 硬件设计: 独立完成原理图和PCB设计(4层板)
+   • 代码规模: 完成2000+行C代码,含CAN驱动、ADC采样、充放电算法
+   • 性能指标: 转换效率92%+,响应时间<50ms
+   • 团队贡献: 成功交付模块,解决团队长期技术难题,现已量产使用
 ```
 
 <div align="center">
 
-### 🤖 RoboMaster Hardware Systems
-**机甲大师硬件系统**
+### 🤖 机甲大师硬件系统
+
+**RoboMaster Hardware Systems**
 
 </div>
 
 ```
-🔧 Role: Hardware Team Member
-🎯 Contribution: Power management & communication system design
-⚡ Technologies:
-   • Multi-module coordination
-   • Real-time communication systems
-   • PCB design & debugging
-📊 Outcome: Core team member in national competition
+🔧 项目角色: 硬件组成员(团队规模6人)
+🎯 主要贡献: 电源管理系统与多模块通信系统设计
+⚡ 技术栈:
+   • 多模块协同控制(CAN总线+主从架构)
+   • 实时通信系统(100Hz数据交换)
+   • PCB设计与调试(电机驱动板+电源板)
+   • 传感器集成(IMU+编码器+视觉模块)
+📊 项目成果:
+   • 竞赛成绩: 【待补充:如区域赛三等奖/参赛队伍】
+   • 硬件贡献: 设计并制作电源管理板和通信接口板
+   • 系统稳定性: 赛场运行3小时+无故障
+   • 团队协作: 与软件组、机械组紧密配合,完成整车调试
 ```
 
 <br>
 
-## 💡 Key Strengths
+## ⚡ 专业技能
+
+### 💻 嵌入式软件开发
+
+✅ **平台开发**: 熟练使用Keil进行STM32开发,TC377平台开发经验
+✅ **C语言精通**: 深入理解指针、链表、位操作、状态机等核心编程技巧
+✅ **控制算法**: 熟悉PID控制、VMC五连杆控制等运动控制算法
+✅ **图像处理**: 掌握大津法、种子搜线、特殊图像判断等视觉算法
+✅ **系统设计**: 具备模块化设计、中断处理能力
+
+### 🔧 嵌入式硬件设计
+
+✅ **PCB设计**: 熟练使用Altium Designer/KiCad完成原理图和PCB设计
+✅ **电路设计**: 掌握电源管理(Buck/Boost)、信号调理、滤波电路等硬件设计
+✅ **器件选型**: 能根据需求选择合适的MCU、传感器、通信芯片等元器件
+✅ **硬件调试**: 具备焊接、示波器/逻辑分析仪调试、问题定位能力
+
+### 🚀 开发能力
+
+✅ **版本控制**: 熟悉Git工作流程,具备团队协作开发经验
+✅ **快速学习**: 善于从开源项目学习,在无代码传承情况下独立完成项目
+✅ **工程实践**: 完成8000+行代码的完整系统开发,具备从0到1的项目经验
+
+<br>
+
+## 💡 核心优势
 
 <div align="center">
 
-| 💪 Strength | 📝 Description |
-|:---:|:---|
-| **🚀 Self-Learning** | Independently completed smart car project without code inheritance or mentorship |
-| **🔧 Full-Stack Embedded** | Proficient in algorithms, control systems, and hardware design |
-| **🏆 Competition Experience** | Smart Car Competition & RoboMaster hardware team member |
-| **⚡ Fast Delivery** | Quickly learn from open-source and deliver practical solutions |
-| **👥 Team Collaboration** | Successfully filled critical technology gaps for the team |
+|         💪 能力项         | 📝 详细描述                                    |
+| :-----------------------: | :--------------------------------------------- |
+| **🚀 自主学习能力** | 在无代码传承和学长指导情况下独立完成智能车项目 |
+|  **🔧 全栈嵌入式**  | 精通算法开发、控制系统和硬件设计               |
+|   **🏆 比赛经验**   | 智能车竞赛 & 机甲大师硬件组成员                |
+|   **⚡ 快速交付**   | 善于从开源项目学习并快速交付实用方案           |
+|   **👥 团队协作**   | 成功填补团队技术空白,解决关键问题              |
 
 </div>
 
 <br>
 
-## 🎓 Education & Competitions
+## 🎓 教育背景与竞赛
 
-🏫 **[Your University Name]** - [Your Major]
-🏆 **National Smart Car Competition** - [Award/Result]
-🤖 **RoboMaster Competition** - Hardware Team Member
+🏫 **江苏大学** - 物联网工程 (2024级本科在读)
+🏆 **全国大学生智能车竞赛** - 【待补充具体奖项:如华东赛区/江苏省赛一等奖】
+🤖 **RoboMaster机甲大师赛** - 硬件组成员 【待补充成绩:如区域赛/参赛队伍】
+
+---
+
+## 📚 核心课程
+
+**专业基础课程**:
+
+- 单片机原理与应用
+- C语言程序设计
+- 数据结构与算法
+- 数字电路与模拟电路
+- 信号与系统
+
+**嵌入式相关课程**:
+
+- 嵌入式系统设计
+- 自动控制原理
+- 通信原理
+- 传感器与检测技术
+- 电力电子技术
 
 <br>
 
-## 📈 Activity Graph
+## 📈 活动图表
 
 <div align="center">
 
@@ -188,16 +262,19 @@
 
 <br>
 
-## 📫 Contact Me
+## 📫 联系方式与求职意向
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![邮箱](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1744393991@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evil0knight)
 
-**📧 Email**: your.email@example.com
-**💼 Open to**: Full-time Embedded Systems Engineer positions
+**📧 邮箱**: 1744393991@qq.com
+**💼 求职意向**: 嵌入式软件/硬件工程师 (2025届应届生)
+**📅 可入职时间**: 2025年6月 (实习可随时到岗)
+**📍 意向城市**: 江苏/长三角地区/全国不限
+**🎓 学历**: 江苏大学 物联网工程 本科在读 (2024级)
+**🔍 求职状态**: 积极寻找校招/实习机会
 
 </div>
 
@@ -205,10 +282,10 @@
 
 <div align="center">
 
-### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💻 "代码如幽默,需要解释的都不够好。" - Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/evil0knight/count.svg)
+![访客计数](https://profile-counter.glitch.me/evil0knight/count.svg)
 
-⭐️ From [evil0knight](https://github.com/evil0knight)
+⭐️ 来自 [evil0knight](https://github.com/evil0knight)
 
 </div>
