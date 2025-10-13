@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+杨奥;%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%80%85;%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%85%A8%E6%A0%88+%7C+%E6%AF%94%E8%B5%9B%E8%8E%B7%E5%A5%96%E8%80%85;%E8%87%AA%E5%AD%A6%E6%88%90%E6%89%8D+%7C+%E6%8C%81%E7%BB%AD%E7%83%AD%E7%88%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+杨奥;%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%80%85;%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%85%A8%E6%A0%88+%7C+%E6%AF%94%E8%B5%9B%E8%8E%B7%E5%A5%96%E8%80%85;%E8%87%AA%E5%AD%A6%E6%88%90%E6%89%8D+%7C+%E6%8C%81%E7%BB%AD%E7%83%AD%E7%88%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +12,7 @@
 
 <div align="center">
 
-[![GitHub 关注者](https://img.shields.io/github/followers/evil0knight?style=social&label=关注者)](https://github.com/evil0knight)
-[![主页访问量](https://komarev.com/ghpvc/?username=evil0knight&color=00f7f7&style=flat-square&label=访问量)](https://github.com/evil0knight)
+[![GitHub 关注者](https://img.shields.io/github/followers/evil0knight?style=social&label=关注者)](https://github.com/evil0knight) [![主页访问量](https://komarev.com/ghpvc/?username=evil0knight&color=00f7f7&style=flat-square&label=访问量)](https://github.com/evil0knight)
 
 </div>
 
@@ -261,19 +260,8 @@
 
 <div align="center">
 
-![访客计数](https://profile-counter.glitch.me/evil0knight/count.svg)
+[![访客计数](https://profile-counter.glitch.me/evil0knight/count.svg)](https://github.com/evil0knight)
 
-⭐️ 来自 [evil0knight](https://github.com/evil0knight)
+<br>
 
-</div>
-
-
----
-
-<div align="center">
-
-![访客计数](https://profile-counter.glitch.me/evil0knight/count.svg)
-
-⭐️ 来自 [evil0knight](https://github.com/evil0knight)
-
-</div>
+⭐️ 来自 [evil0knight](
