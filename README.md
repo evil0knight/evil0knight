@@ -7,7 +7,7 @@
 
 <div align="center">
 
-🤖 **嵌入式系统开发者** | 💻 **算法与控制专家** | 🔧 **硬件设计工程师**
+🤖 **嵌入式系统开发者** |🔧 **硬件设计工程师**
 
 [![GitHub 关注者](https://img.shields.io/github/followers/evil0knight?style=social&label=关注者)](https://github.com/evil0knight)
 [![主页访问量](https://komarev.com/ghpvc/?username=evil0knight&color=00f7f7&style=flat-square&label=访问量)](https://github.com/evil0knight)
