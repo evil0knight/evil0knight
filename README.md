@@ -38,14 +38,7 @@
 ### 💻 编程语言
 
 ![C](https://img.shields.io/badge/C语言-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/汇编-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-### 📡 通信协议
-
-![CAN](https://img.shields.io/badge/CAN总线-009639?style=for-the-badge&logo=canva&logoColor=white)
-![UART](https://img.shields.io/badge/UART-4285F4?style=for-the-badge&logo=serial&logoColor=white)
 
 ### ⚡ 控制与算法
 
@@ -54,7 +47,6 @@
 ![Otsu](https://img.shields.io/badge/大津法-95E1D3?style=for-the-badge&logo=opencv&logoColor=white)
 ![Seed Line](https://img.shields.io/badge/种子搜线-38B2AC?style=for-the-badge&logo=algorithm&logoColor=white)
 ![Image Recognition](https://img.shields.io/badge/特殊图像判断-9F7AEA?style=for-the-badge&logo=image&logoColor=white)
-![State Machine](https://img.shields.io/badge/状态机-6366F1?style=for-the-badge&logo=automata&logoColor=white)
 
 ### 🔌 硬件设计
 
@@ -68,7 +60,6 @@
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_MDK-00599C?style=for-the-badge&logo=arm&logoColor=white)
-![IAR](https://img.shields.io/badge/IAR-00599C?style=for-the-badge&logo=embedded&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -122,17 +113,17 @@
 
 ```
 🔧 硬件平台: 英飞凌 TC377 + 灰度摄像头
-🎯 项目亮点: 无代码传承和学长指导,从零开始独立构建
+🎯 项目亮点: 无代码传承和学长指导,从零开始独立构建,队友不给力控制和视觉一人完成,大一
 ⚡ 技术栈:
    • 大津法图像分割 + 种子搜线算法
    • VMC(虚拟模型控制)五连杆悬架控制
-   • 三级串级PID调优(位置环+速度环+电流环)
-   • 实时图像处理(处理速度50fps+)
+   • 三级串级PID调优(角速度环+角度环+速度环)
+   • 实时图像处理
 📊 项目成果:
-   • 竞赛成绩: 【待补充:如省赛一等奖/国赛二等奖】
-   • 代码规模: 完成6000+行C代码,含图像处理、电机控制等8大功能模块
-   • 性能指标: 最高车速2.5m/s,赛道识别准确率95%+
-   • 开发周期: 3个月,独立完成全部软件开发(硬件由团队完成)
+   • 竞赛成绩: 省2
+   • 代码规模: C代码,含图像处理、电机控制等8大功能模块
+   • 性能指标: 车速1.5m/s
+   • 开发周期: 7个月,独立完成全部软件开发(硬件由团队完成)
 ```
 
 <div align="center">
@@ -152,9 +143,6 @@
    • 充放电管理算法(SOC估算+过流保护)
    • Buck-Boost电力电子控制(PWM+闭环控制)
 📊 项目成果:
-   • 硬件设计: 独立完成原理图和PCB设计(4层板)
-   • 代码规模: 完成2000+行C代码,含CAN驱动、ADC采样、充放电算法
-   • 性能指标: 转换效率92%+,响应时间<50ms
    • 团队贡献: 成功交付模块,解决团队长期技术难题,现已量产使用
 ```
 
@@ -163,23 +151,6 @@
 ### 🤖 机甲大师硬件系统
 
 **RoboMaster Hardware Systems**
-
-</div>
-
-```
-🔧 项目角色: 硬件组成员(团队规模6人)
-🎯 主要贡献: 电源管理系统与多模块通信系统设计
-⚡ 技术栈:
-   • 多模块协同控制(CAN总线+主从架构)
-   • 实时通信系统(100Hz数据交换)
-   • PCB设计与调试(电机驱动板+电源板)
-   • 传感器集成(IMU+编码器+视觉模块)
-📊 项目成果:
-   • 竞赛成绩: 【待补充:如区域赛三等奖/参赛队伍】
-   • 硬件贡献: 设计并制作电源管理板和通信接口板
-   • 系统稳定性: 赛场运行3小时+无故障
-   • 团队协作: 与软件组、机械组紧密配合,完成整车调试
-```
 
 <br>
 
@@ -204,7 +175,7 @@
 
 ✅ **版本控制**: 熟悉Git工作流程,具备团队协作开发经验
 ✅ **快速学习**: 善于从开源项目学习,在无代码传承情况下独立完成项目
-✅ **工程实践**: 完成8000+行代码的完整系统开发,具备从0到1的项目经验
+✅ **工程实践**: 具备从0到1的项目经验
 
 <br>
 
@@ -227,8 +198,8 @@
 ## 🎓 教育背景与竞赛
 
 🏫 **江苏大学** - 物联网工程 (2024级本科在读)
-🏆 **全国大学生智能车竞赛** - 【待补充具体奖项:如华东赛区/江苏省赛一等奖】
-🤖 **RoboMaster机甲大师赛** - 硬件组成员 【待补充成绩:如区域赛/参赛队伍】
+🏆 **全国大学生智能车竞赛** - 如华东赛区/江苏省赛二等奖
+🤖 **RoboMaster机甲大师赛** - 硬件组成员 
 
 ---
 
