@@ -5,13 +5,13 @@
   </a>
 </div>
 
+<div align="center">
+
+🤖 **嵌入式系统开发者** | 🔧 **硬件设计工程师**
+
 </div>
 
 <div align="center">
-
-<div align="center">
-
-🤖 **嵌入式系统开发者** |🔧 **硬件设计工程师**
 
 [![GitHub 关注者](https://img.shields.io/github/followers/evil0knight?style=social&label=关注者)](https://github.com/evil0knight)
 [![主页访问量](https://komarev.com/ghpvc/?username=evil0knight&color=00f7f7&style=flat-square&label=访问量)](https://github.com/evil0knight)
@@ -159,6 +159,8 @@
 
 **RoboMaster Hardware Systems**
 
+</div>
+
 <br>
 
 ## ⚡ 专业技能
@@ -206,7 +208,7 @@
 
 🏫 **江苏大学** - 物联网工程 (2024级本科在读)
 🏆 **全国大学生智能车竞赛** - 如华东赛区/江苏省赛二等奖
-🤖 **RoboMaster机甲大师赛** - 硬件组成员 
+🤖 **RoboMaster机甲大师赛** - 硬件组成员
 
 ---
 
