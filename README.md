@@ -213,14 +213,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-[![访客计数](https://profile-counter.glitch.me/evil0knight/count.svg)](https://github.com/evil0knight)
-
-<br>
-
-⭐️ 来自 [evil0knight](https://github.com/evil0knight)
-
-</div>
