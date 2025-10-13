@@ -45,33 +45,14 @@
 ![C](https://img.shields.io/badge/C语言-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚡ 控制与算法
-
-![PID Control](https://img.shields.io/badge/三级串PID-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
-![VMC](https://img.shields.io/badge/VMC五连杆-4ECDC4?style=for-the-badge&logo=codio&logoColor=white)
-![Otsu](https://img.shields.io/badge/大津法-95E1D3?style=for-the-badge&logo=opencv&logoColor=white)
-![Seed Line](https://img.shields.io/badge/种子搜线-38B2AC?style=for-the-badge&logo=algorithm&logoColor=white)
-![Image Recognition](https://img.shields.io/badge/特殊图像判断-9F7AEA?style=for-the-badge&logo=image&logoColor=white)
-
-### 🔌 硬件设计
-
-![PCB Design](https://img.shields.io/badge/PCB设计-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Power Electronics](https://img.shields.io/badge/半桥升降压-FF6B35?style=for-the-badge&logo=electronjs&logoColor=white)
-![Circuit Design](https://img.shields.io/badge/电路设计-FF6B6B?style=for-the-badge&logo=circuitverse&logoColor=white)
-
 ### 🔧 开发工具
 
-![EDA](https://img.shields.io/badge/EDA-00599C?style=for-the-badge&logo=electronics&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_MDK-00599C?style=for-the-badge&logo=arm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔍 调试工具
-
-![Logic Analyzer](https://img.shields.io/badge/逻辑分析仪-00897B?style=for-the-badge&logo=oscilloscope&logoColor=white)
-![Oscilloscope](https://img.shields.io/badge/示波器-8E24AA?style=for-the-badge&logo=waveform&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00599C?style=for-the-badge&logo=electronics&logoColor=white)
+![ADS](https://img.shields.io/badge/ADS-FF6B35?style=for-the-badge&logo=keysight&logoColor=white)
 
 <br>
 
@@ -108,13 +89,11 @@
 
 ## 🏆 核心项目
 
-<div align="center">
-
-### 🚗 智能车视觉控制系统
+### 🚗 [智能车视觉控制系统](https://github.com/evil0knight/JSU_Infin0)
 
 **Smart Car Vision Control System**
 
-</div>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-查看代码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evil0knight/JSU_Infin0)
 
 ```
 🔧 硬件平台: 英飞凌 TC377 + 灰度摄像头
@@ -131,13 +110,13 @@
    • 开发周期: 7个月,独立完成全部软件开发(硬件由团队完成)
 ```
 
-<div align="center">
+---
 
-### ⚡ 超级电容管理系统
+### ⚡ [超级电容管理系统](https://github.com/evil0knight/RM_SUPERCAP_JSU)
 
 **Supercapacitor Management System**
 
-</div>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-查看代码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evil0knight/RM_SUPERCAP_JSU)
 
 ```
 🔧 硬件平台: 半桥升降压电路 + STM32F1/F4
@@ -151,13 +130,11 @@
    • 团队贡献: 成功交付模块,解决团队长期技术难题,现已量产使用
 ```
 
-<div align="center">
+---
 
 ### 🤖 机甲大师硬件系统
 
 **RoboMaster Hardware Systems**
-
-</div>
 
 <br>
 
@@ -210,26 +187,6 @@
 
 ---
 
-## 📚 核心课程
-
-**专业基础课程**:
-
-- 单片机原理与应用
-- C语言程序设计
-- 数据结构与算法
-- 数字电路与模拟电路
-- 信号与系统
-
-**嵌入式相关课程**:
-
-- 嵌入式系统设计
-- 自动控制原理
-- 通信原理
-- 传感器与检测技术
-- 电力电子技术
-
-<br>
-
 ## 📈 活动图表
 
 <div align="center">
@@ -267,4 +224,3 @@
 ⭐️ 来自 [evil0knight](https://github.com/evil0knight)
 
 </div>
-
