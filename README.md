@@ -89,7 +89,7 @@
 
 ## 🏆 核心项目
 
-### 🚗 [智能车视觉控制系统](https://github.com/evil0knight/JSU_Infin0)
+### 🚗 [智能车](https://github.com/evil0knight/JSU_Infin0)
 
 **Smart Car Vision Control System**
 
@@ -112,7 +112,7 @@
 
 ---
 
-### ⚡ [超级电容管理系统](https://github.com/evil0knight/RM_SUPERCAP_JSU)
+### ⚡ [超级电容](https://github.com/evil0knight/RM_SUPERCAP_JSU)
 
 **Supercapacitor Management System**
 
@@ -132,9 +132,6 @@
 
 ---
 
-### 🤖 机甲大师硬件系统
-
-**RoboMaster Hardware Systems**
 
 <br>
 
