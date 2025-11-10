@@ -77,15 +77,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=evil0knight&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&locale=zh_Hans)](https://git.io/streak-stats)
 
-<br>
-
-### 成就收藏
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=evil0knight&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
 
 ## 🏆 核心项目
 
