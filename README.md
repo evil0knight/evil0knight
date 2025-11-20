@@ -122,7 +122,7 @@
 ```
 
 ---
-### ⚡ [超级电容](https://github.com/evil0knight/RM_SUPERCAP_JSU_V2)
+### ⚡ [超级电容升级版](https://github.com/evil0knight/RM_SUPERCAP_JSU_V2)
 
 **Supercapacitor Management System**
 
