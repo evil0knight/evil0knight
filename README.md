@@ -122,7 +122,26 @@
 ```
 
 ---
+### ⚡ [超级电容](https://github.com/evil0knight/RM_SUPERCAP_JSU_V2)
 
+**Supercapacitor Management System**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-查看代码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evil0knight/RM_SUPERCAP_JSU_V2)
+
+```
+🔧  双层板，H桥，功率检测
+🎯 项目亮点: 研发主力，关键点攻破主力，真正解决了战队一直研发不出来的困局
+⚡ 技术栈:
+   • H桥，串级PID控制升降压（功率，电压，电流）
+   • 二极管保护电路
+   • INA电流检测，运放+分压测量电压
+   • 电容泄放电路
+📊 项目成果:
+   • 不上超电功率，轮子空转时功率70W，峰值100，上了超电可以让功率限制在50W,并且可以通过CAN通信实时改变功率限制的值，保护我方机器人不超功率
+   • 攻破战队5年技术难题
+```
+
+---
 
 <br>
 
