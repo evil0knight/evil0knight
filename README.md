@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://evil0knight.github.io/quartz/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=YA's%20Tech%20Blog&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=👉%20evil0knight.github.io/quartz%20%20Click%20to%20Visit&descAlignY=62&descSize=24&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=evil0knight.github.io/quartz&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=👉%20Click%20to%20Visit&descAlignY=62&descSize=28&animation=fadeIn" width="100%"/>
 </a>
 
 
