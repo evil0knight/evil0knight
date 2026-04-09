@@ -1,22 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=YA's%20Tech%20Blog&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=evil0knight.github.io/quartz&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<br/>
-
 <a href="https://evil0knight.github.io/quartz/">
-  <img src="https://img.shields.io/badge/🌐_立即访问我的博客-ENTER_BLOG-00F7F7?style=for-the-badge&labelColor=0D1117&logoColor=white" height="50" alt="Visit Blog"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=YA's%20Tech%20Blog&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=👉%20evil0knight.github.io/quartz%20%20Click%20to%20Visit&descAlignY=62&descSize=24&animation=fadeIn" width="100%"/>
 </a>
-
-<br/><br/>
-
-> **📖 嵌入式系统 · 控制算法 · 硬件设计 · 项目实战**
->
-> *从零独立构建，8000+ 行代码，智能车 & RoboMaster 竞赛经验*
 
 <br/>
 
